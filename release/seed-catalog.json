@@ -1,0 +1,51 @@
+{
+  "cutoff": "2035-01-10T12:00Z",
+  "lot_count": 5,
+  "lots": [
+    {
+      "lot": "LOT-008",
+      "species": "Abies lasiocarpa",
+      "zone": "Alpine Shelf",
+      "collected": "2034-08-30",
+      "viability": 91,
+      "declared_status": "RELEASED",
+      "disposition": "ELIGIBLE"
+    },
+    {
+      "lot": "LOT-014",
+      "species": "Pinus contorta",
+      "zone": "North Ridge",
+      "collected": "2034-10-02",
+      "viability": 84,
+      "declared_status": "RELEASED",
+      "disposition": "ELIGIBLE"
+    },
+    {
+      "lot": "LOT-020",
+      "species": "Pinus ponderosa",
+      "zone": "South Spur",
+      "collected": "2034-09-26",
+      "viability": 81,
+      "declared_status": "RELEASED",
+      "disposition": "ELIGIBLE"
+    },
+    {
+      "lot": "LOT-021",
+      "species": "Quercus garryana",
+      "zone": "West Meadow",
+      "collected": "2034-09-18",
+      "viability": 76,
+      "declared_status": "HELD",
+      "disposition": "HOLD"
+    },
+    {
+      "lot": "LOT-003",
+      "species": "Acer macrophyllum",
+      "zone": "Creek Bend",
+      "collected": "2034-10-11",
+      "viability": 65,
+      "declared_status": "QUARANTINE",
+      "disposition": "EXCLUDE"
+    }
+  ]
+}
