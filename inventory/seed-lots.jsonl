@@ -1,0 +1,16 @@
+{"lot":"LOT-014","species":"Pinus contorta","zone":"North Ridge","collected":"2034-10-02","viability":82,"status":"HELD","revision":1,"reported_at":"2035-01-05T10:00Z"}
+{"lot":"LOT-021","species":"Quercus garryana","zone":"West Meadow","collected":"2034-09-18","viability":76,"status":"HELD","revision":1,"reported_at":"2035-01-06T09:15Z"}
+{"lot":"LOT-008","species":"Abies lasiocarpa","zone":"Alpine Shelf","collected":"2034-08-30","viability":91,"status":"RELEASED","revision":1,"reported_at":"2035-01-07T11:30Z"}
+{"lot":"LOT-003","species":"Acer macrophyllum","zone":"Creek Bend","collected":"2034-10-11","viability":65,"status":"QUARANTINE","revision":1,"reported_at":"2035-01-08T08:00Z"}
+{"lot":"LOT-020","species":"Pinus ponderosa","zone":"South Spur","collected":"2034-09-26","viability":79,"status":"RELEASED","revision":1,"reported_at":"2035-01-08T14:45Z"}
+{"lot":"LOT-014","species":"Pinus contorta","zone":"North Ridge","collected":"2034-10-02","viability":84,"status":"RELEASED","revision":2,"reported_at":"2035-01-09T07:20Z"}
+{"lot":"LOT-020","species":"Pinus ponderosa","zone":"South Spur","collected":"2034-09-26","viability":79,"status":"RELEASED","revision":2,"reported_at":"2035-01-09T09:05Z"}
+{"lot":"LOT-020","species":"Pinus ponderosa","zone":"South Spur","collected":"2034-09-26","viability":81,"status":"RELEASED","revision":2,"reported_at":"2035-01-09T10:00Z"}
+{"lot":"LOT-099","species":"Picea sitchensis","zone":"Coast","collected":"2034-10-05","viability":88,"status":"RELEASED","revision":0,"reported_at":"2035-01-09T10:30Z"}
+{"lot":"lot-101","species":"Tsuga heterophylla","zone":"Coast","collected":"2034-10-05","viability":88,"status":"RELEASED","revision":1,"reported_at":"2035-01-09T10:30Z"}
+{"lot":"LOT-102","species":"Thuja plicata ","zone":"Coast","collected":"2034-10-05","viability":88,"status":"RELEASED","revision":1,"reported_at":"2035-01-09T10:30Z"}
+{"lot":"LOT-103","species":"Larix occidentalis","zone":"High Bench","collected":"2034-02-30","viability":88,"status":"RELEASED","revision":1,"reported_at":"2035-01-09T10:30Z"}
+{"lot":"LOT-104","species":"Pseudotsuga menziesii","zone":"East Rise","collected":"2034-10-05","viability":true,"status":"RELEASED","revision":1,"reported_at":"2035-01-09T10:30Z"}
+{"lot":"LOT-105","species":"Taxus brevifolia","zone":"Grove","collected":"2034-10-05","viability":88,"status":"RELEASED","revision":1,"reported_at":"2035-01-11T10:30Z"}
+not json
+
